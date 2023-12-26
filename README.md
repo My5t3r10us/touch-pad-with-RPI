@@ -85,5 +85,11 @@ Permet d'être utiliser comme écran externe :
 #### Connexion depuis pc distant
 Clé hdmi sans fil
 
+### Support tablette 
+#### Pied dépliable au dos de la tablette 
+#### Support pour écran externe 
+Support magnétique au dos de la tablette pour en coller sur un pied spécial.
+
+
 
 
