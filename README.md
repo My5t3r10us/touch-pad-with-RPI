@@ -46,14 +46,12 @@ Imprimer via imprimante 3d
 ## Software
 
 ### OS
-Linux ou android ?
+Multi-distribution
+Avec disque différent pour chaque OS
 
-#### Linux ?
-
-#### Android ?
-
-#### Surcouche
-
+#### Linux normal
+#### Média center
+#### Émulateur rétro Game
 
 ### App
 - Mini jeux
